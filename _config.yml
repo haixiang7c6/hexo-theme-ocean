@@ -56,4 +56,4 @@ valine:
 #主页摘要
 auto_excerpt:
   enable: true
-  length: 150
+  length: 15
