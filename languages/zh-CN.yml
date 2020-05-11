@@ -1,3 +1,4 @@
+home: 主页
 categories: 类别
 search: 搜索
 tags: 标签
@@ -17,3 +18,5 @@ powered_by: Powered by
 rss_feed: RSS Feed
 category: 分类
 tag: Tag
+about: 关于
+archives: 归档

@@ -1,10 +1,10 @@
 # Menu
 menu:
-  Home: /
+  Home: /home
   Archives: /archives
 #  Gallery: /gallery
   About: /about
-rss: /atom.xml
+#rss: /atom.xml
 
 
 # Miscellaneous
