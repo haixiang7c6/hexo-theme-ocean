@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Ocean 是基于 Landscape 中的功能设计的一个 Hexo 主题",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "hexo-generator-searchdb": "^1.3.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

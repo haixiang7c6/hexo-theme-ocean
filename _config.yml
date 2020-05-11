@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Gallery: /gallery
+#  Gallery: /gallery
   About: /about
 rss: /atom.xml
 
