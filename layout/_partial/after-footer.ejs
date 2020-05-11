@@ -23,8 +23,8 @@
   </script>
 <% } %>
 
-<%- js('js/ocean') %>
-
-<% if (theme.search){ %>
-  <%- js('js/search') %>
+<% if (theme.local_search.enable){ %>
+  <%- js('/js/search') %>
 <% } %>
+
+<%- js('/js/ocean') %>
