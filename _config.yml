@@ -1,9 +1,9 @@
 # Menu
 menu:
-  Home: /主页
-  Archives: /归档
+  Home:
+  Archives: /archives
 #  Gallery: /gallery
-  About: /关于
+  About: /about
 #rss: /atom.xml
 
 
@@ -30,6 +30,9 @@ toc: true
 # fancybox
 fancybox: true
 
+# Local search
+search_text: Search
+
 # Gitalk
 gitalk:
   enable: false # true
@@ -49,4 +52,5 @@ valine:
   verify: true
   avatar: 'mp'
   pageSize: '10'
-  placeholder: '请输入...' 
+  placeholder: '请输入...'
+
