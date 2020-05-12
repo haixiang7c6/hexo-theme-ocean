@@ -45,11 +45,22 @@ gitalk:
 valine:
   enable: true # true
   el: 'vcomments'
-  appId: 
-  appKey: 
-  notify: false
-  verify: true
+  appId: zX1WYifJaMoEaMytlMiSORoM-9Nh9j0Va
+  appKey: 16MkNPNchKqt1YK1YRtILpva
+  notify: true
+  verify: false
   avatar: 'mp'
   pageSize: '10'
+  language: zh-cn
+  comment_count: true
   placeholder: '请输入...'
+
+# cdn config
+vendors:
+  # valine
+  # See: https://github.com/xCss/Valine
+  # Example:
+  # valine: //cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js
+  # valine: //cdnjs.cloudflare.com/ajax/libs/valine/1.3.4/Valine.min.js
+  valine: //cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js
 
