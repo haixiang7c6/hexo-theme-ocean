@@ -48,7 +48,7 @@ valine:
   appId: zX1WYifJaMoEaMytlMiSORoM-9Nh9j0Va
   appKey: 16MkNPNchKqt1YK1YRtILpva
   notify: true
-  verify: false
+  verify: true
   avatar: 'mp'
   pageSize: '10'
   language: zh-cn
